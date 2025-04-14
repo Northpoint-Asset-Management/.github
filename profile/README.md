@@ -40,7 +40,7 @@ This GitHub organization hosts:
 ## 🤝 Contributing
 
 Internal developers and contractors should:
-- Follow the org-wide [contribution guidelines]().
+- Follow the org-wide [contribution guidelines](CONTRIBUTING.md).
 - Keep documentation up to date.
 - Commit meaningful messages and reference ticket IDs when applicable.
 
