@@ -14,11 +14,12 @@ This GitHub organization hosts:
 
 ## 📚 Repository Categories
 
-| Category           | Description |
-|--------------------|-------------|
-| `docs-*`           | Documentation on processes, integrations, and guidelines. |
-| `api-*`            | Codebases for API interactions. |
-| `app-*`            | Frontend and backend applications. |
+| Category           | Description                                      |
+|--------------------|--------------------------------------------------|
+| `docs-*`           | Repositories for documentation on processes, integrations, and guidelines. |
+| `api-*`            | Codebases for interacting with APIs.            |
+| `app-*`            | Repositories for frontend and backend applications. |
+| `scripts-*`        | Scripting files used for various purposes.       |
 
 
 ## 🔐 Access and Permissions
