@@ -20,6 +20,7 @@ This GitHub organization hosts:
 | `api-*`            | Codebases for interacting with APIs.            |
 | `app-*`            | Repositories for frontend and backend applications. |
 | `scripts-*`        | Scripting files used for various purposes.       |
+| `jobs-*`        | Files or app integrations ran on a timer       |
 
 
 ## 🔐 Access and Permissions
