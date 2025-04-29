@@ -38,6 +38,24 @@ This GitHub organization hosts:
 2. Follow the `README.md` within each repo for setup instructions.
 3. Use Issues and Pull Requests for collaboration and code reviews.
 
+## Index
+
+### Applications
+- [NorthPoint Python Apps](https://github.com/Northpoint-Asset-Management/app-pythonapps)
+- [App API Admin Portal](https://github.com/Northpoint-Asset-Management/app-api-admin-portal)
+
+### Scripts
+- [Python-Appfolio-Faker](https://github.com/Northpoint-Asset-Management/scripts-Python-Appfolio-Faker)
+- [Powershell Scrpits repo](https://github.com/Northpoint-Asset-Management/scripts-powershell)
+
+### API Integrations
+- [NorthpointAPI](https://github.com/Northpoint-Asset-Management/api-front-facing-api)
+- [Northpoint Practice API Python](https://github.com/Northpoint-Asset-Management/api-python-endpoint)
+
+### Jobs
+- [AppFolio Reporting Loader](https://github.com/Northpoint-Asset-Management/jobs-appfolio-load/tree/main)
+- [AppFolio to Rently Json](https://github.com/Northpoint-Asset-Management/jobs-rently-json)
+
 
 ## 🤝 Contributing
 
